@@ -14,22 +14,23 @@ import { newsData } from 'common/src/data/Interior';
 const News = () => {
   return (
     <SectionWrapper id="news">
+    
       <ContentWrapper>
         <div className="row">
           <div className="col">
-            <Fade delay={30}>N</Fade>
+            <Fade delay={30}>D</Fade>
           </div>
           <div className="col">
-            <Fade delay={60}>E</Fade>
+            <Fade delay={60}>A</Fade>
           </div>
           <div className="col">
-            <Fade delay={90}>W</Fade>
+            <Fade delay={90}>T</Fade>
           </div>
           <div className="col">
-            <Fade delay={90}>S</Fade>
+            <Fade delay={90}>E</Fade>
           </div>
         </div>
-        <NewsWrapper>
+        {/* <NewsWrapper>
           {newsData.map(item => (
             <NewsItem key={`news_key${item.id}`}>
               <Fade bottom delay={60 * item.id}>
@@ -44,7 +45,7 @@ const News = () => {
               </Fade>
             </NewsItem>
           ))}
-        </NewsWrapper>
+        </NewsWrapper> */}
       </ContentWrapper>
     </SectionWrapper>
   );

@@ -74,7 +74,7 @@ const Team = () => {
                             <Heading as="h3" content={member.name} />
                             <Text content={member.designation} />
                           </div>
-                          <ul className="social_links">
+                          {/* <ul className="social_links">
                             {member.social_links.map(item => (
                               <li key={`social_link__key${item.id}`}>
                                 <Link href={item.url}>
@@ -84,7 +84,7 @@ const Team = () => {
                                 </Link>
                               </li>
                             ))}
-                          </ul>
+                          </ul> */}
                         </TextWrapper>
                       </TeamCard>
                     </GlideSlide>

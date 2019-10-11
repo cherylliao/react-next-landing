@@ -34,12 +34,12 @@ export const menuData = [
     offset: '80',
   },
   {
-    label: '畫廊',
+    label: '裝飾',
     path: '#team',
     offset: '80',
   },
   {
-    label: '聯繫',
+    label: '展示',
     path: '#news',
     offset: '40',
   },
@@ -220,7 +220,7 @@ export const teamData = {
     {
       id: 2,
       avatar: member2,
-      name: '貓眼',
+      name: '藍寶星',
       designation: '神話說石頭是有靈性',
       social_links: [
         {

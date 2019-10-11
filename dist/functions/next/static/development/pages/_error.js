@@ -16702,7 +16702,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 6:
 /*!******************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Fcheryl%2Freact-next-landing%2Fpackages%2Flanding%2Fpages%2F_error.js ***!
   \******************************************************************************************************************************************************/
@@ -16725,5 +16725,5 @@ module.exports = dll_1ba9fd1898d1834f52ed;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[6,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=_error.js.map

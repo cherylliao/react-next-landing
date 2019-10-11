@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -5584,66 +5584,7 @@ var Banner = function Banner() {
       lineNumber: 85
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_banner_style__WEBPACK_IMPORTED_MODULE_15__["FormWrapper"], {
-    onSubmit: handleSubscriptionForm,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 86
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(common_src_components_Input__WEBPACK_IMPORTED_MODULE_11__["default"], {
-    className: state.valid,
-    type: "email",
-    placeholder: "\u8F38\u5165\u96FB\u5B50\u90F5\u4EF6",
-    icon: react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_icons_kit__WEBPACK_IMPORTED_MODULE_5__["Icon"], {
-      icon: react_icons_kit_ionicons_iosEmailOutline__WEBPACK_IMPORTED_MODULE_6__["iosEmailOutline"],
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 91
-      },
-      __self: this
-    }),
-    iconPosition: "left",
-    required: true,
-    onChange: handleOnChange,
-    "aria-label": "email",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 87
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_banner_style__WEBPACK_IMPORTED_MODULE_15__["ButtonGroup"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 97
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_10__["default"], {
-    type: "submit",
-    colors: "primaryWithBg",
-    title: "\u514D\u8CBB\u8AEE\u8A62",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 98
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_10__["default"], {
-    title: "\u63A2\u7D22",
-    variant: "textButton",
-    icon: react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("i", {
-      className: "flaticon-next",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 106
-      },
-      __self: this
-    }),
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 103
-    },
-    __self: this
-  }))))), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_banner_style__WEBPACK_IMPORTED_MODULE_15__["CarouselArea"], {
+  }))), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_banner_style__WEBPACK_IMPORTED_MODULE_15__["CarouselArea"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 114
@@ -8804,7 +8745,7 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/inde
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

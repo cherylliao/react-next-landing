@@ -83,7 +83,7 @@ const Banner = () => {
             </HighlightedText>
             <Heading as="h1" content={title} />
             <Text content={text} />
-            <FormWrapper onSubmit={handleSubscriptionForm}>
+            {/* <FormWrapper onSubmit={handleSubscriptionForm}>
               <Input
                 className={state.valid}
                 type="email"
@@ -106,7 +106,7 @@ const Banner = () => {
                   icon={<i className="flaticon-next" />}
                 />
               </ButtonGroup>
-            </FormWrapper>
+            </FormWrapper> */}
           </Fade>
         </ContentArea>
         {/* End of content section */}

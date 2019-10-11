@@ -16,6 +16,7 @@ const News = () => {
     <SectionWrapper id="news">
     
       <ContentWrapper>
+      
         <div className="row">
           <div className="col">
             <Fade delay={30}>千</Fade>
@@ -31,6 +32,7 @@ const News = () => {
             <Fade delay={90}>石</Fade>
           </div>
         </div>
+        
         {/* <NewsWrapper>
           {newsData.map(item => (
             <NewsItem key={`news_key${item.id}`}>

@@ -45351,7 +45351,7 @@ var Footer = function Footer(_ref) {
       __self: this
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_6__["default"], {
       className: "widget_title",
-      as: "h3",
+      as: "h1",
       content: widget.title,
       __source: {
         fileName: _jsxFileName,
@@ -45361,28 +45361,29 @@ var Footer = function Footer(_ref) {
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_footer_style__WEBPACK_IMPORTED_MODULE_9__["List"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 68
+        lineNumber: 69
       },
       __self: this
     }, widget.menu.map(function (item) {
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_footer_style__WEBPACK_IMPORTED_MODULE_9__["ListItem"], {
         key: "list__item-".concat(item.id),
+        as: "h2",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 70
+          lineNumber: 71
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_3___default.a, {
         href: item.link,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 71
+          lineNumber: 72
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 72
+          lineNumber: 73
         },
         __self: this
       }, item.text)));
@@ -45392,13 +45393,13 @@ var Footer = function Footer(_ref) {
   }, row, {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 83
+      lineNumber: 84
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 85
+      lineNumber: 86
     },
     __self: this
   }, "Built & designed with", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("svg", {
@@ -45408,7 +45409,7 @@ var Footer = function Footer(_ref) {
     viewBox: "0 0 11.243 10.378",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
+      lineNumber: 88
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("path", {
@@ -45418,7 +45419,7 @@ var Footer = function Footer(_ref) {
     fill: "#f4291e",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 93
+      lineNumber: 94
     },
     __self: this
   })))))));
@@ -46451,63 +46452,63 @@ var News = function News() {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 20
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 21
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_reveal_Fade__WEBPACK_IMPORTED_MODULE_2___default.a, {
     delay: 30,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }, "\u5343")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 24
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_reveal_Fade__WEBPACK_IMPORTED_MODULE_2___default.a, {
     delay: 60,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 25
     },
     __self: this
   }, "\u5B50")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 27
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_reveal_Fade__WEBPACK_IMPORTED_MODULE_2___default.a, {
     delay: 90,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 28
     },
     __self: this
   }, "\u5BF6")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 31
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_reveal_Fade__WEBPACK_IMPORTED_MODULE_2___default.a, {
     delay: 90,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 32
     },
     __self: this
   }, "\u77F3")))));
@@ -48748,7 +48749,7 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/inde
 
 /***/ }),
 
-/***/ 1:
+/***/ 3:
 /*!***********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fcheryl%2Freact-next-landing%2Fpackages%2Flanding%2Fpages%2Findex.js ***!
   \***********************************************************************************************************************************************/
@@ -48771,5 +48772,5 @@ module.exports = dll_1ba9fd1898d1834f52ed;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[3,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

@@ -62,12 +62,13 @@ const Footer = ({ row, col, colOne, colTwo }) => {
                 >
                   <Heading
                     className="widget_title"
-                    as="h3"
-                    content={widget.title}
+                    as="h1"
+                    content={widget.title} 
+                    
                   />
                   <List>
                     {widget.menu.map(item => (
-                      <ListItem key={`list__item-${item.id}`}  >
+                      <ListItem key={`list__item-${item.id}`}  as="h2">
                         <Link href={item.link}>
                           <a>{item.text}</a>
                         </Link>

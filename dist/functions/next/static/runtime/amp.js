@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/amp.js"],{
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
-  \*****************************************************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12,9 +12,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ ".
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23,9 +23,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34,9 +34,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/parse-int.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/parse-int.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/parse-int.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -45,9 +45,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/parse-int */ "../../
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/promise.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -56,9 +56,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "../../no
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js ***!
-  \*******************************************************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -105,9 +105,9 @@ module.exports = _asyncToGenerator;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \************************************************************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -122,9 +122,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/regenerator/index.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -134,9 +134,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/json/stringify.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/fn/json/stringify.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/fn/json/stringify.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -150,9 +150,9 @@ module.exports = function stringify(it) { // eslint-disable-line no-unused-vars
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/create.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/fn/object/create.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/fn/object/create.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -166,9 +166,9 @@ module.exports = function create(P, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/keys.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/fn/object/keys.js ***!
-  \**************************************************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/fn/object/keys.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -179,9 +179,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/parse-int.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/fn/parse-int.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/fn/parse-int.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -192,9 +192,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/promise.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/fn/promise.js ***!
-  \**********************************************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/fn/promise.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -210,9 +210,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_a-function.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_a-function.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_a-function.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -225,9 +225,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_add-to-unscopables.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -237,9 +237,9 @@ module.exports = function () { /* empty */ };
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-instance.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_an-instance.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_an-instance.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -253,9 +253,9 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-object.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_an-object.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_an-object.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -269,9 +269,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-includes.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_array-includes.js ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_array-includes.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -303,9 +303,9 @@ module.exports = function (IS_INCLUDES) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_classof.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_classof.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_classof.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -337,9 +337,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_cof.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_cof.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_cof.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -353,9 +353,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_core.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_core.js ***!
-  \*************************************************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_core.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -366,9 +366,9 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ctx.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_ctx.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_ctx.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -397,9 +397,9 @@ module.exports = function (fn, that, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_defined.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_defined.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_defined.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -413,9 +413,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_descriptors.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_descriptors.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_descriptors.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -428,9 +428,9 @@ module.exports = !__webpack_require__(/*! ./_fails */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_dom-create.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_dom-create.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_dom-create.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -446,9 +446,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-bug-keys.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -461,9 +461,9 @@ module.exports = (
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_export.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_export.js ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_export.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -534,9 +534,9 @@ module.exports = $export;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_fails.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_fails.js ***!
-  \**************************************************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_fails.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -552,9 +552,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_for-of.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_for-of.js ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_for-of.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -588,9 +588,9 @@ exports.RETURN = RETURN;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_global.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_global.js ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_global.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -605,9 +605,9 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_has.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_has.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_has.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -620,9 +620,9 @@ module.exports = function (it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_hide.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_hide.js ***!
-  \*************************************************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_hide.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -639,9 +639,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_html.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_html.js ***!
-  \*************************************************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_html.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -652,9 +652,9 @@ module.exports = document && document.documentElement;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ie8-dom-define.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -666,9 +666,9 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_invoke.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_invoke.js ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_invoke.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -693,9 +693,9 @@ module.exports = function (fn, args, that) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iobject.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iobject.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iobject.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -710,9 +710,9 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array-iter.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_is-array-iter.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_is-array-iter.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -729,9 +729,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-object.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_is-object.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_is-object.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -743,9 +743,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-call.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iter-call.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iter-call.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -766,9 +766,9 @@ module.exports = function (iterator, fn, value, entries) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-create.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iter-create.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iter-create.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -791,9 +791,9 @@ module.exports = function (Constructor, NAME, next) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-define.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iter-define.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iter-define.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -872,9 +872,9 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-detect.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iter-detect.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iter-detect.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -905,9 +905,9 @@ module.exports = function (exec, skipClosing) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-step.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iter-step.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iter-step.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -919,9 +919,9 @@ module.exports = function (done, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iterators.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_iterators.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_iterators.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -931,9 +931,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_library.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_library.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_library.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -943,9 +943,9 @@ module.exports = true;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_microtask.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_microtask.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_microtask.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1023,9 +1023,9 @@ module.exports = function () {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_new-promise-capability.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_new-promise-capability.js ***!
-  \*******************************************************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_new-promise-capability.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1053,9 +1053,9 @@ module.exports.f = function (C) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-create.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-create.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-create.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1105,9 +1105,9 @@ module.exports = Object.create || function create(O, Properties) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dp.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-dp.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-dp.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1132,9 +1132,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dps.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-dps.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-dps.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1156,9 +1156,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gpo.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-gpo.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-gpo.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1180,9 +1180,9 @@ module.exports = Object.getPrototypeOf || function (O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys-internal.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-keys-internal.js ***!
-  \*****************************************************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-keys-internal.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1208,9 +1208,9 @@ module.exports = function (object, names) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-keys.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-keys.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1226,9 +1226,9 @@ module.exports = Object.keys || function keys(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-sap.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_object-sap.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_object-sap.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1247,9 +1247,9 @@ module.exports = function (KEY, exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_parse-int.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_parse-int.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_parse-int.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1267,9 +1267,9 @@ module.exports = $parseInt(ws + '08') !== 8 || $parseInt(ws + '0x16') !== 22 ? f
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_perform.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_perform.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_perform.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1285,9 +1285,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_promise-resolve.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_promise-resolve.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_promise-resolve.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1308,9 +1308,9 @@ module.exports = function (C, x) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_property-desc.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_property-desc.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_property-desc.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1327,9 +1327,9 @@ module.exports = function (bitmap, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine-all.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_redefine-all.js ***!
-  \*********************************************************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_redefine-all.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1345,9 +1345,9 @@ module.exports = function (target, src, safe) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_redefine.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_redefine.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1357,9 +1357,9 @@ module.exports = __webpack_require__(/*! ./_hide */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-species.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_set-species.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_set-species.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1383,9 +1383,9 @@ module.exports = function (KEY) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-to-string-tag.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1401,9 +1401,9 @@ module.exports = function (it, tag, stat) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared-key.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_shared-key.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_shared-key.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1417,9 +1417,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_shared.js ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_shared.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1440,9 +1440,9 @@ var store = global[SHARED] || (global[SHARED] = {});
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_species-constructor.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_species-constructor.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_species-constructor.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1460,9 +1460,9 @@ module.exports = function (O, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-at.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_string-at.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_string-at.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1488,9 +1488,9 @@ module.exports = function (TO_STRING) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-trim.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_string-trim.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_string-trim.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1529,9 +1529,9 @@ module.exports = exporter;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-ws.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_string-ws.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_string-ws.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1542,9 +1542,9 @@ module.exports = '\x09\x0A\x0B\x0C\x0D\x20\xA0\u1680\u180E\u2000\u2001\u2002\u20
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_task.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_task.js ***!
-  \*************************************************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_task.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1637,9 +1637,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-absolute-index.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_to-absolute-index.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_to-absolute-index.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1655,9 +1655,9 @@ module.exports = function (index, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-integer.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_to-integer.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_to-integer.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1672,9 +1672,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-iobject.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_to-iobject.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_to-iobject.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1689,9 +1689,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-length.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_to-length.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_to-length.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1706,9 +1706,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-object.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_to-object.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_to-object.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1722,9 +1722,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-primitive.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_to-primitive.js ***!
-  \*********************************************************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_to-primitive.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1745,9 +1745,9 @@ module.exports = function (it, S) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_uid.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_uid.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_uid.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1761,9 +1761,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_user-agent.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_user-agent.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_user-agent.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1776,9 +1776,9 @@ module.exports = navigator && navigator.userAgent || '';
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/_wks.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/_wks.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1798,9 +1798,9 @@ $exports.store = store;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator-method.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
-  \********************************************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1817,9 +1817,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.iterator.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.array.iterator.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.array.iterator.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1863,9 +1863,9 @@ addToUnscopables('entries');
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.create.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.object.create.js ***!
-  \*************************************************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.object.create.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1877,9 +1877,9 @@ $export($export.S, 'Object', { create: __webpack_require__(/*! ./_object-create 
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.keys.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.object.keys.js ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.object.keys.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1897,9 +1897,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.to-string.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.object.to-string.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.object.to-string.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1908,9 +1908,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.parse-int.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.parse-int.js ***!
-  \*********************************************************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.parse-int.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1923,9 +1923,9 @@ $export($export.G + $export.F * (parseInt != $parseInt), { parseInt: $parseInt }
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.promise.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.promise.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.promise.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2221,9 +2221,9 @@ $export($export.S + $export.F * !(USE_NATIVE && __webpack_require__(/*! ./_iter-
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.string.iterator.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es6.string.iterator.js ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es6.string.iterator.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2250,9 +2250,9 @@ __webpack_require__(/*! ./_iter-define */ "../../node_modules/core-js/library/mo
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.finally.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es7.promise.finally.js ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es7.promise.finally.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2282,9 +2282,9 @@ $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.try.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/es7.promise.try.js ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/es7.promise.try.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2306,9 +2306,9 @@ $export($export.S, 'Promise', { 'try': function (callbackfn) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/web.dom.iterable.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/core-js/library/modules/web.dom.iterable.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/core-js/library/modules/web.dom.iterable.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2336,9 +2336,9 @@ for (var i = 0; i < DOMIterables.length; i++) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/amp-dev.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/dev/amp-dev.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/dev/amp-dev.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2488,9 +2488,9 @@ function _tryApplyUpdates() {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/error-overlay/eventsource.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/dev/error-overlay/eventsource.js ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/dev/error-overlay/eventsource.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2575,9 +2575,9 @@ function getEventSourceWrapper(options) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/event-source-polyfill.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/dev/event-source-polyfill.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/dev/event-source-polyfill.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3532,9 +3532,9 @@ exports["default"] = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/on-demand-entries-utils.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/dev/on-demand-entries-utils.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/dev/on-demand-entries-utils.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3602,9 +3602,9 @@ function setupPing(assetPrefix, pathnameFn, retry) {
 /***/ }),
 
 /***/ "../../node_modules/regenerator-runtime/runtime.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/regenerator-runtime/runtime.js ***!
-  \***********************************************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/regenerator-runtime/runtime.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4339,9 +4339,9 @@ try {
 /***/ }),
 
 /***/ "../../node_modules/unfetch/dist/unfetch.mjs":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/unfetch/dist/unfetch.mjs ***!
-  \*****************************************************************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/unfetch/dist/unfetch.mjs ***!
+  \******************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 

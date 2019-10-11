@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["styles"],{
 
 /***/ "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@glidejs/glide/dist/css/glide.core.min.css ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@glidejs/glide/dist/css/glide.core.min.css ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29,7 +29,7 @@
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1570725210434");
+            injectCss(link, link.href.split("?")[0] + "?unix=1570766149933");
           });
       }
     }
@@ -38,9 +38,9 @@
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/index.css":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@redq/reuse-modal/es/index.css ***!
-  \***********************************************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@redq/reuse-modal/es/index.css ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -66,7 +66,7 @@
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1570725207370");
+            injectCss(link, link.href.split("?")[0] + "?unix=1570766111065");
           });
       }
     }
@@ -75,9 +75,9 @@
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/css/flaticon.css":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/css/flaticon.css ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/css/flaticon.css ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -103,7 +103,7 @@
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1570725211141");
+            injectCss(link, link.href.split("?")[0] + "?unix=1570766115933");
           });
       }
     }
@@ -112,9 +112,9 @@
 /***/ }),
 
 /***/ "../../node_modules/rc-drawer/assets/index.css":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/rc-drawer/assets/index.css ***!
-  \*******************************************************************************************************************************/
+/*!********************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/rc-drawer/assets/index.css ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -140,7 +140,7 @@
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1570725210924");
+            injectCss(link, link.href.split("?")[0] + "?unix=1570766150214");
           });
       }
     }
@@ -149,9 +149,9 @@
 /***/ }),
 
 /***/ "../../node_modules/rc-tabs/assets/index.css":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/rc-tabs/assets/index.css ***!
-  \*****************************************************************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/rc-tabs/assets/index.css ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -177,7 +177,7 @@
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1570725210673");
+            injectCss(link, link.href.split("?")[0] + "?unix=1570766150121");
           });
       }
     }

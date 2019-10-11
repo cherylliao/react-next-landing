@@ -88,15 +88,15 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
-  \*****************************************************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -105,9 +105,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ "c
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/get-iterator.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -116,9 +116,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "cor
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/map.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/map.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/map.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -127,9 +127,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/map */ "core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -138,9 +138,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -149,9 +149,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js":
-/*!***************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
-  \***************************************************************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -160,9 +160,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \*************************************************************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -171,9 +171,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/freeze.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/freeze.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/freeze.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -182,9 +182,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/freeze */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!*************************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \*************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -193,9 +193,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js":
-/*!**********************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
-  \**********************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -204,9 +204,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!**************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \**************************************************************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -215,9 +215,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -226,9 +226,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "core
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!**************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \**************************************************************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -237,9 +237,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
-  \********************************************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -248,9 +248,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/reflect/construct */
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \*********************************************************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -259,9 +259,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "core-js/l
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -270,9 +270,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
-  \*********************************************************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -289,9 +289,9 @@ function _arrayWithHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js":
-/*!****************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js ***!
-  \****************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -309,9 +309,9 @@ function _assertThisInitialized(self) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js ***!
-  \*********************************************************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -327,9 +327,9 @@ function _classCallCheck(instance, Constructor) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/construct.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/construct.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/construct.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -375,9 +375,9 @@ function _construct(Parent, args, Class) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -408,9 +408,9 @@ function _createClass(Constructor, protoProps, staticProps) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
-  \*********************************************************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -438,9 +438,9 @@ function _defineProperty(obj, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -471,9 +471,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js ***!
-  \*********************************************************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -496,9 +496,9 @@ function _getPrototypeOf(o) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js ***!
+  \****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -528,9 +528,9 @@ function _inherits(subClass, superClass) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js":
-/*!***************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
-  \***************************************************************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -569,9 +569,9 @@ function _iterableToArrayLimit(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js":
-/*!**********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
-  \**********************************************************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -585,9 +585,9 @@ function _nonIterableRest() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js ***!
-  \*******************************************************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js ***!
+  \********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -628,9 +628,9 @@ function _objectSpread(target) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js":
-/*!******************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
-  \******************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
+  \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -664,9 +664,9 @@ function _objectWithoutProperties(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js":
-/*!***********************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \***********************************************************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -696,9 +696,9 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js":
-/*!********************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js ***!
-  \********************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js ***!
+  \*********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -720,9 +720,9 @@ function _possibleConstructorReturn(self, call) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js ***!
-  \*********************************************************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -744,9 +744,9 @@ function _setPrototypeOf(o, p) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
-  \********************************************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -766,9 +766,9 @@ function _slicedToArray(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js":
-/*!****************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js ***!
-  \****************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -796,9 +796,9 @@ function _taggedTemplateLiteral(strings, raw) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js ***!
-  \*************************************************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -831,9 +831,9 @@ function _typeof(obj) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/extends.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/extends.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/extends.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -862,9 +862,9 @@ module.exports = _extends;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \************************************************************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -879,9 +879,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \*************************************************************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -919,9 +919,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@glidejs/glide/dist/css/glide.core.min.css ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@glidejs/glide/dist/css/glide.core.min.css ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -930,9 +930,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/css/flaticon.css":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/css/flaticon.css ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/css/flaticon.css ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -941,9 +941,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/css/style.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/css/style.js ***!
-  \***********************************************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/css/style.js ***!
+  \************************************************************************************/
 /*! exports provided: ResetCSS */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -974,9 +974,9 @@ var ResetCSS = Object(styled_components__WEBPACK_IMPORTED_MODULE_1__["createGlob
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/google-icon.jpg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/agency/google-icon.jpg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/agency/google-icon.jpg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -985,9 +985,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgA
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/login-bg.jpg":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/agency/login-bg.jpg ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/agency/login-bg.jpg ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -996,9 +996,9 @@ module.exports = "/_next/static/images/login-bg-be2e9a02a773eac061cd01d2724c9825
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/logo.png":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/agency/logo.png ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/agency/logo.png ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1007,9 +1007,9 @@ module.exports = "/_next/static/images/logo-b73048211d7a9a05b4c449061f130c5f.png
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/error.svg":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/error.svg ***!
-  \**************************************************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/error.svg ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1018,9 +1018,9 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZGMzNTQ1IiB2ZXJzaW9u
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/about_parent.png":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/about_parent.png ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/about_parent.png ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1029,9 +1029,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABBUAAAKyCAMAAAC9
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/curv-bg.svg":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/curv-bg.svg ***!
-  \*************************************************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/curv-bg.svg ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1040,9 +1040,9 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/feature/1.svg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/feature/1.svg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/feature/1.svg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1051,9 +1051,9 @@ module.exports = "/_next/static/images/1-fd7735a6eb1f3879c3101a636408f9b9.svg";
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/feature/2.svg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/feature/2.svg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/feature/2.svg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1062,9 +1062,9 @@ module.exports = "/_next/static/images/2-f830efd893912c752db7eb34467d41cc.svg";
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/feature/3.svg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/feature/3.svg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/feature/3.svg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1073,9 +1073,9 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/gallery/1.jpg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/gallery/1.jpg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/gallery/1.jpg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1084,9 +1084,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/gallery/2.jpg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/gallery/2.jpg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/gallery/2.jpg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1095,9 +1095,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/gallery/3.jpg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/gallery/3.jpg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/gallery/3.jpg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1106,9 +1106,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/gallery/4.jpg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/gallery/4.jpg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/gallery/4.jpg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1117,9 +1117,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/gallery/5.jpg":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/gallery/5.jpg ***!
-  \***************************************************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/gallery/5.jpg ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1128,9 +1128,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/logo.svg":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/logo.svg ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/logo.svg ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1139,9 +1139,9 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/map.png":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/map.png ***!
-  \*********************************************************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/map.png ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1150,9 +1150,9 @@ module.exports = "/_next/static/images/map-25359dc5a1f448af7b57ae2807a2d350.png"
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/projects/1.png":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/projects/1.png ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/projects/1.png ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1161,9 +1161,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAAJACAMAAACX
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/slider/slide-1.png":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/slider/slide-1.png ***!
-  \********************************************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/slider/slide-1.png ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1172,9 +1172,9 @@ module.exports = "/_next/static/images/slide-1-c0f370865706184c8eae809367adffaa.
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/slider/slide-2.png":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/slider/slide-2.png ***!
-  \********************************************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/slider/slide-2.png ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1183,9 +1183,9 @@ module.exports = "/_next/static/images/slide-2-d46ec48188a8a408bed6540bb4de1569.
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/slider/slide-3.png":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/slider/slide-3.png ***!
-  \********************************************************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/slider/slide-3.png ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1194,9 +1194,9 @@ module.exports = "/_next/static/images/slide-3-d46ec48188a8a408bed6540bb4de1569.
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/team/member1.jpg":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/team/member1.jpg ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/team/member1.jpg ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1205,9 +1205,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/team/member2.jpg":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/team/member2.jpg ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/team/member2.jpg ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1216,9 +1216,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/team/member3.jpg":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/team/member3.jpg ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/team/member3.jpg ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1227,9 +1227,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/interior/twitter.svg":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/interior/twitter.svg ***!
-  \*************************************************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/interior/twitter.svg ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1238,9 +1238,9 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/success.svg":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/assets/image/success.svg ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/assets/image/success.svg ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1249,9 +1249,9 @@ module.exports = "data:image/svg+xml;base64,DQo8c3ZnIGZpbGw9IiMwMEFDMzkiIHZlcnNp
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/BlogPost/index.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/BlogPost/index.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/BlogPost/index.js ***!
+  \*********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1261,7 +1261,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/BlogPost/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/BlogPost/index.js";
 
 
 
@@ -1343,9 +1343,9 @@ BlogPost.propTypes = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/GlideCarousel/glide.style.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/GlideCarousel/glide.style.js ***!
-  \*******************************************************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/GlideCarousel/glide.style.js ***!
+  \********************************************************************************************************/
 /*! exports provided: GlideSlideWrapper, ButtonControlWrapper, ButtonWrapper, BulletControlWrapper, BulletButton, DefaultBtn, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1404,9 +1404,9 @@ var DefaultBtn = styled_components__WEBPACK_IMPORTED_MODULE_0___default.a.button
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/GlideCarousel/glideSlide.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/GlideCarousel/glideSlide.js ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/GlideCarousel/glideSlide.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1417,7 +1417,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _glide_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glide.style */ "../../node_modules/common/src/components/GlideCarousel/glide.style.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/GlideCarousel/glideSlide.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/GlideCarousel/glideSlide.js";
 
 
  // Glide Slide wrapper component
@@ -1443,9 +1443,9 @@ GlideSlide.propTypes = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/GlideCarousel/index.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/GlideCarousel/index.js ***!
-  \*************************************************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/GlideCarousel/index.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1464,7 +1464,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _glide_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./glide.style */ "../../node_modules/common/src/components/GlideCarousel/glide.style.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/GlideCarousel/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/GlideCarousel/index.js";
 
 
 
@@ -1662,9 +1662,9 @@ GlideCarousel.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js":
-/*!***********************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js ***!
-  \***********************************************************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1688,9 +1688,9 @@ HamburgMenuWrapper.displayName = 'HamburgMenuWrapper';
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/HamburgMenu/index.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/HamburgMenu/index.js ***!
-  \***********************************************************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/HamburgMenu/index.js ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1705,7 +1705,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _hamburgMenu_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./hamburgMenu.style */ "../../node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/HamburgMenu/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/HamburgMenu/index.js";
 
 
 
@@ -1770,9 +1770,9 @@ HamburgMenu.propTypes = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/Input/index.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/Input/index.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/Input/index.js ***!
+  \******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1784,7 +1784,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/Input/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/Input/index.js";
 
 
 var Input = function Input(_ref) {
@@ -1835,9 +1835,9 @@ var Input = function Input(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/ScrollSpyMenu/index.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/ScrollSpyMenu/index.js ***!
-  \*************************************************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/ScrollSpyMenu/index.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1856,7 +1856,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_DrawerContext__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../contexts/DrawerContext */ "../../node_modules/common/src/contexts/DrawerContext.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/ScrollSpyMenu/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/ScrollSpyMenu/index.js";
 
 
 
@@ -1979,9 +1979,9 @@ ScrollSpyMenu.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/UI/Container/index.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/UI/Container/index.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/UI/Container/index.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1990,7 +1990,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style */ "../../node_modules/common/src/components/UI/Container/style.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/UI/Container/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/components/UI/Container/index.js";
 
 
 
@@ -2028,9 +2028,9 @@ var Container = function Container(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/UI/Container/style.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/components/UI/Container/style.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/components/UI/Container/style.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2056,9 +2056,9 @@ var ContainerWrapper = styled_components__WEBPACK_IMPORTED_MODULE_0___default.a.
 /***/ }),
 
 /***/ "../../node_modules/common/src/contexts/DrawerContext.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/contexts/DrawerContext.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/contexts/DrawerContext.js ***!
+  \******************************************************************************************/
 /*! exports provided: DrawerContext, DrawerProvider */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2072,7 +2072,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/contexts/DrawerContext.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/contexts/DrawerContext.js";
 
 var initialState = {
   isOpen: false
@@ -2115,9 +2115,9 @@ var DrawerProvider = function DrawerProvider(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/common/src/data/Interior/index.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/data/Interior/index.js ***!
-  \**************************************************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/data/Interior/index.js ***!
+  \***************************************************************************************/
 /*! exports provided: menuData, bannerData, featureData, aboutData, projectData, teamData, newsData, testimonialData, galleryData, newsletterData, footerData, socialProfile */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2193,7 +2193,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_icons_kit_fa_twitter__WEBPACK_IMPORTED_MODULE_27___default = /*#__PURE__*/__webpack_require__.n(react_icons_kit_fa_twitter__WEBPACK_IMPORTED_MODULE_27__);
 /* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! common/src/assets/image/interior/logo.svg */ "../../node_modules/common/src/assets/image/interior/logo.svg");
 /* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_28___default = /*#__PURE__*/__webpack_require__.n(common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_28__);
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/data/Interior/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/data/Interior/index.js";
 
 
 /* interiro dummy data list :-
@@ -2864,9 +2864,9 @@ var socialProfile = [{
 /***/ }),
 
 /***/ "../../node_modules/common/src/theme/interior/colors.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/theme/interior/colors.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/theme/interior/colors.js ***!
+  \*****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2903,9 +2903,9 @@ var colors = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/theme/interior/index.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/common/src/theme/interior/index.js ***!
-  \***************************************************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/common/src/theme/interior/index.js ***!
+  \****************************************************************************************/
 /*! exports provided: interiorTheme */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3043,9 +3043,9 @@ var interiorTheme = {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/link.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/link.js ***!
-  \*****************************************************************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/link.js ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3362,9 +3362,9 @@ exports["default"] = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/router.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/router.js ***!
-  \*******************************************************************************************************************************/
+/*!********************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/router.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3548,9 +3548,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/with-router.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/dist/client/with-router.js ***!
-  \************************************************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/dist/client/with-router.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3624,9 +3624,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "../../node_modules/next/link.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/next/link.js ***!
-  \*****************************************************************************************************************/
+/*!******************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/next/link.js ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3636,9 +3636,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/rc-drawer/assets/index.css":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/rc-drawer/assets/index.css ***!
-  \*******************************************************************************************************************************/
+/*!********************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/rc-drawer/assets/index.css ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -3647,9 +3647,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/rc-tabs/assets/index.css":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/rc-tabs/assets/index.css ***!
-  \*****************************************************************************************************************************/
+/*!******************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/rc-tabs/assets/index.css ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -3658,9 +3658,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Animation/index.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Animation/index.js ***!
-  \**********************************************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Animation/index.js ***!
+  \***********************************************************************************************/
 /*! exports provided: AnimSpinner */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3677,9 +3677,9 @@ var AnimSpinner = Object(styled_components__WEBPACK_IMPORTED_MODULE_0__["css"])(
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Box/index.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Box/index.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Box/index.js ***!
+  \*****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3698,7 +3698,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _base__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../base */ "../../node_modules/reusecore/src/elements/base.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Box/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Box/index.js";
 
 
 
@@ -3755,9 +3755,9 @@ Box.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Button/button.style.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Button/button.style.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Button/button.style.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3787,9 +3787,9 @@ ButtonStyle.displayName = 'ButtonStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Button/index.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Button/index.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Button/index.js ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3805,7 +3805,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Loader__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Loader */ "../../node_modules/reusecore/src/elements/Loader/index.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Button/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Button/index.js";
 
 
 
@@ -3940,9 +3940,9 @@ Button.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Checkbox/checkbox.style.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Checkbox/checkbox.style.js ***!
-  \******************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Checkbox/checkbox.style.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3968,9 +3968,9 @@ CheckBoxStyle.displayName = 'CheckBoxStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Checkbox/index.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Checkbox/index.js ***!
-  \*********************************************************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Checkbox/index.js ***!
+  \**********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3988,7 +3988,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Checkbox/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Checkbox/index.js";
 
 
 
@@ -4117,9 +4117,9 @@ CheckBox.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Drawer/index.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Drawer/index.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Drawer/index.js ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4137,7 +4137,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rc_drawer_assets_index_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rc_drawer_assets_index_css__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Drawer/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Drawer/index.js";
 
 
 
@@ -4225,9 +4225,9 @@ Drawer.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Heading/index.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Heading/index.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Heading/index.js ***!
+  \*********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4248,7 +4248,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Heading/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Heading/index.js";
 
 
 
@@ -4294,9 +4294,9 @@ Heading.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Image/index.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Image/index.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Image/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4313,7 +4313,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _base__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../base */ "../../node_modules/reusecore/src/elements/base.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Image/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Image/index.js";
 
 
 
@@ -4356,9 +4356,9 @@ Image.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Input/index.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Input/index.js ***!
-  \******************************************************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Input/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4377,7 +4377,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Input/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Input/index.js";
 
 
 
@@ -4647,9 +4647,9 @@ Input.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Input/input.style.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Input/input.style.js ***!
-  \************************************************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Input/input.style.js ***!
+  \*************************************************************************************************/
 /*! exports provided: EyeButton, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4676,9 +4676,9 @@ var EyeButton = styled_components__WEBPACK_IMPORTED_MODULE_0___default.a.button.
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Link/index.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Link/index.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Link/index.js ***!
+  \******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4697,7 +4697,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Link/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Link/index.js";
 
 
 
@@ -4736,9 +4736,9 @@ Link.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Loader/index.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Loader/index.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Loader/index.js ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4753,7 +4753,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _loader_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./loader.style */ "../../node_modules/reusecore/src/elements/Loader/loader.style.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Loader/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Loader/index.js";
 
 
 
@@ -4801,9 +4801,9 @@ Loader.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Loader/loader.style.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Loader/loader.style.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Loader/loader.style.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4837,9 +4837,9 @@ LoaderStyle.displayName = 'LoaderStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Navbar/index.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Navbar/index.js ***!
-  \*******************************************************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Navbar/index.js ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4854,7 +4854,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _navbar_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./navbar.style */ "../../node_modules/reusecore/src/elements/Navbar/navbar.style.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Navbar/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Navbar/index.js";
 
 
 
@@ -4910,9 +4910,9 @@ Navbar.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Navbar/navbar.style.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Navbar/navbar.style.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Navbar/navbar.style.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4934,9 +4934,9 @@ NavbarStyle.displayName = 'NavbarStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Text/index.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Text/index.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Text/index.js ***!
+  \******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4957,7 +4957,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/Text/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/Text/index.js";
 
 
 
@@ -5002,9 +5002,9 @@ Text.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/UI/Logo/index.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/UI/Logo/index.js ***!
-  \********************************************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/UI/Logo/index.js ***!
+  \*********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5021,7 +5021,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Image__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../Image */ "../../node_modules/reusecore/src/elements/Image/index.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/UI/Logo/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/UI/Logo/index.js";
 
 
 
@@ -5116,9 +5116,9 @@ Logo.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/base.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/elements/base.js ***!
-  \***********************************************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/elements/base.js ***!
+  \************************************************************************************/
 /*! exports provided: themed, base */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5148,9 +5148,9 @@ base.propTypes = Object(_babel_runtime_corejs2_helpers_esm_objectSpread__WEBPACK
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/hooks/index.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/hooks/index.js ***!
-  \*********************************************************************************************************************************/
+/*!**********************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/hooks/index.js ***!
+  \**********************************************************************************/
 /*! exports provided: useToggle */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5164,9 +5164,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/hooks/toggle/index.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/hooks/toggle/index.js ***!
-  \****************************************************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/hooks/toggle/index.js ***!
+  \*****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5194,9 +5194,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/theme/customVariant.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/reusecore/src/theme/customVariant.js ***!
-  \*****************************************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/reusecore/src/theme/customVariant.js ***!
+  \******************************************************************************************/
 /*! exports provided: cards, buttonStyle, colorStyle, sizeStyle */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5282,7 +5282,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
 /* harmony import */ var _aboutUs_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./aboutUs.style */ "./containers/Interior/AboutUs/aboutUs.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/AboutUs/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/AboutUs/index.js";
 
 
 
@@ -5500,7 +5500,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Banner/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Banner/index.js";
 
 
 
@@ -5845,7 +5845,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
 /* harmony import */ var _copyright_style__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./copyright.style */ "./containers/Interior/Copyright/copyright.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Copyright/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Copyright/index.js";
 
 
 
@@ -5953,7 +5953,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _interior_style__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../interior.style */ "./containers/Interior/interior.style.js");
 /* harmony import */ var _feature_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./feature.style */ "./containers/Interior/Feature/feature.style.js");
 /* harmony import */ var common_src_data_Interior___WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! common/src/data/Interior/ */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Feature/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Feature/index.js";
 
 
 
@@ -6112,7 +6112,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _footer_style__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./footer.style */ "./containers/Interior/Footer/footer.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Footer/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Footer/index.js";
 
 
 
@@ -6452,7 +6452,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var common_src_components_GlideCarousel_glideSlide__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! common/src/components/GlideCarousel/glideSlide */ "../../node_modules/common/src/components/GlideCarousel/glideSlide.js");
 /* harmony import */ var _gallery_style__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./gallery.style */ "./containers/Interior/Gallery/gallery.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Gallery/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Gallery/index.js";
 
 
 
@@ -6609,7 +6609,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var common_src_assets_image_agency_google_icon_jpg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! common/src/assets/image/agency/google-icon.jpg */ "../../node_modules/common/src/assets/image/agency/google-icon.jpg");
 /* harmony import */ var common_src_assets_image_agency_google_icon_jpg__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(common_src_assets_image_agency_google_icon_jpg__WEBPACK_IMPORTED_MODULE_17__);
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/LoginModal/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/LoginModal/index.js";
 
 
 
@@ -7065,7 +7065,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! common/src/assets/image/interior/logo.svg */ "../../node_modules/common/src/assets/image/interior/logo.svg");
 /* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18___default = /*#__PURE__*/__webpack_require__.n(common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18__);
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Navbar/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Navbar/index.js";
 
 
 
@@ -7373,7 +7373,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
 /* harmony import */ var _news_style__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./news.style */ "./containers/Interior/News/news.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/News/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/News/index.js";
 
 
 
@@ -7598,7 +7598,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
 
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Newsletter/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Newsletter/index.js";
 
 
 
@@ -7822,7 +7822,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _interior_style__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../interior.style */ "./containers/Interior/interior.style.js");
 /* harmony import */ var _project_style__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./project.style */ "./containers/Interior/Project/project.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Project/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Project/index.js";
 
 
 
@@ -8037,7 +8037,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_icons_kit_ionicons_iosSearchStrong__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_icons_kit_ionicons_iosSearchStrong__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _searchPanel_style__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./searchPanel.style */ "./containers/Interior/SearchPanel/searchPanel.style.js");
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/SearchPanel/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/SearchPanel/index.js";
 
 
 
@@ -8168,7 +8168,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _team_style__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./team.style */ "./containers/Interior/Team/team.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Team/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Team/index.js";
 
 
 
@@ -8478,7 +8478,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
 /* harmony import */ var reusecore_src_elements_Image__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! reusecore/src/elements/Image */ "../../node_modules/reusecore/src/elements/Image/index.js");
 /* harmony import */ var reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! reusecore/src/elements/Heading */ "../../node_modules/reusecore/src/elements/Heading/index.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Testimonial/carousel.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Testimonial/carousel.js";
 
 
 
@@ -8678,7 +8678,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _testimonial_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./testimonial.style */ "./containers/Interior/Testimonial/testimonial.style.js");
 /* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/containers/Interior/Testimonial/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Testimonial/index.js";
 
 
 
@@ -8906,7 +8906,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _containers_Interior_Footer__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../containers/Interior/Footer */ "./containers/Interior/Footer/index.js");
 /* harmony import */ var common_src_assets_css_style__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! common/src/assets/css/style */ "../../node_modules/common/src/assets/css/style.js");
 /* harmony import */ var _containers_Interior_interior_style__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../containers/Interior/interior.style */ "./containers/Interior/interior.style.js");
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/pages/index.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/index.js";
 
 
 
@@ -8952,28 +8952,43 @@ var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page T
       lineNumber: 30
     },
     __self: this
-  }, "Interior | A react next landing page"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
-    name: "theme-color",
-    content: "#171717",
+  }, "Jadeite Taipei | \u53F0\u5317\u7FE1\u7FE0"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    charset: "utf-8",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
-    name: "description",
-    content: "React next landing page",
+    name: "theme-color",
+    content: "#171717",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
-    name: "keywords",
-    content: "React, React js, Next, Next js, Gatsby, Gatsby Js, Fast Landing, Modren Landing",
+    name: "description",
+    content: "This is a website about a taipei jewelry store that sells jade,jadeite\r ,ruby,saphire,diamonds,jewelry. \u9019\u662F\u4E00\u500B\u6709\u95DC\u51FA\u552E\u7FE1\u7FE0\uFF0C\u7FE1\u7FE0\u7684\u53F0\u5317\u73E0\u5BF6\u5E97\u7684\u7DB2\u7AD9\r \uFF0C\u7D05\u5BF6\u77F3\uFF0C\u85CD\u5BF6\u77F3\uFF0C\u947D\u77F3,\u73E0\u5BF6.",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "keywords",
+    content: "diamond,diamonds,ruby,saphire,jade, jadeite, jewelry, \r \u947D\u77F3\uFF0C\u947D\u77F3\uFF0C\u7D05\u5BF6\u77F3\uFF0C\u85CD\u5BF6\u77F3\uFF0C\u7FE1\u7FE0\uFF0C\u7FE1\u7FE0\uFF0C\u73E0\u5BF6",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "author",
+    content: "Cheryl Liao",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
@@ -8981,7 +8996,7 @@ var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page T
     rel: "stylesheet",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 42
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
@@ -8989,25 +9004,25 @@ var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page T
     rel: "stylesheet",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 46
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(common_src_assets_css_style__WEBPACK_IMPORTED_MODULE_17__["ResetCSS"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 51
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_interior_style__WEBPACK_IMPORTED_MODULE_18__["GlobalStyle"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 52
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_interior_style__WEBPACK_IMPORTED_MODULE_18__["InteriorWrapper"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 55
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_stickynode__WEBPACK_IMPORTED_MODULE_2___default.a, {
@@ -9016,85 +9031,85 @@ var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page T
     activeClass: "sticky-nav-active",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 56
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(common_src_contexts_DrawerContext__WEBPACK_IMPORTED_MODULE_5__["DrawerProvider"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 57
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Navbar__WEBPACK_IMPORTED_MODULE_6__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 58
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_interior_style__WEBPACK_IMPORTED_MODULE_18__["ContentWrapper"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 61
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Banner__WEBPACK_IMPORTED_MODULE_7__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 62
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Feature__WEBPACK_IMPORTED_MODULE_8__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 63
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_AboutUs__WEBPACK_IMPORTED_MODULE_9__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 64
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Project__WEBPACK_IMPORTED_MODULE_10__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 65
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Team__WEBPACK_IMPORTED_MODULE_11__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
+      lineNumber: 66
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_News__WEBPACK_IMPORTED_MODULE_12__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 67
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Testimonial__WEBPACK_IMPORTED_MODULE_13__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 68
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Gallery__WEBPACK_IMPORTED_MODULE_14__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 69
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Newsletter__WEBPACK_IMPORTED_MODULE_15__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 70
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Footer__WEBPACK_IMPORTED_MODULE_16__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 72
     },
     __self: this
   }))));
@@ -9102,14 +9117,14 @@ var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page T
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /Users/cheryl/react-next-landing/packages/landing/pages/index.js */"./pages/index.js");
 
 
 /***/ }),

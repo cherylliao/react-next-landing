@@ -27,13 +27,18 @@ export default () => {
     <ThemeProvider theme={interiorTheme}>
       <Fragment>
         <Head>
-          <title>Interior | A react next landing page</title>
+          <title>Jadeite Taipei | 台北翡翠</title>
+          <meta charset="utf-8"></meta>
           <meta name="theme-color" content="#171717" />
-          <meta name="description" content="React next landing page" />
+          <meta name="description" content="This is a website about a taipei jewelry store that sells jade,jadeite
+          ,ruby,saphire,diamonds,jewelry. 這是一個有關出售翡翠，翡翠的台北珠寶店的網站
+          ，紅寶石，藍寶石，鑽石,珠寶." />
           <meta
             name="keywords"
-            content="React, React js, Next, Next js, Gatsby, Gatsby Js, Fast Landing, Modren Landing"
+            content="diamond,diamonds,ruby,saphire,jade, jadeite, jewelry, 
+            鑽石，鑽石，紅寶石，藍寶石，翡翠，翡翠，珠寶"
           />
+          <meta name="author" content="Cheryl Liao" />
           <link
             href="https://fonts.googleapis.com/css?family=Raleway:500,600&display=swap"
             rel="stylesheet"

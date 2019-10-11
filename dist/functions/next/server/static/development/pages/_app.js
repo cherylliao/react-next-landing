@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \****************************************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -105,9 +105,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
-  \**************************************************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -138,9 +138,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/index.css":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/node_modules/@redq/reuse-modal/es/index.css ***!
-  \***********************************************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/cheryl/react-next-landing/node_modules/@redq/reuse-modal/es/index.css ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -165,7 +165,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _redq_reuse_modal_es_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @redq/reuse-modal/es/index.css */ "../../node_modules/@redq/reuse-modal/es/index.css");
 /* harmony import */ var _redq_reuse_modal_es_index_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_redq_reuse_modal_es_index_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "/Users/cheryl/Desktop/SuperProps - React Next Landing Page Templates/SuperProps/packages/landing/pages/_app.js";
+var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/_app.js";
 
 
 

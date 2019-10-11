@@ -87,7 +87,7 @@ const Banner = () => {
               <Input
                 className={state.valid}
                 type="email"
-                placeholder="Enter email address"
+                placeholder="輸入電子郵件"
                 icon={<Icon icon={iosEmailOutline} />}
                 iconPosition="left"
                 required={true}
@@ -98,10 +98,10 @@ const Banner = () => {
                 <Button
                   type="submit"
                   colors="primaryWithBg"
-                  title="FREE CONSULT"
+                  title="免費諮詢"
                 />
                 <Button
-                  title="EXPLORE MORE"
+                  title="探索"
                   variant="textButton"
                   icon={<i className="flaticon-next" />}
                 />

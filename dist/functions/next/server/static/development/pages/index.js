@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -2251,24 +2251,24 @@ var menuData = [{
 
 
 var bannerData = {
-  discount: '25%',
-  discountLabel: 'DISCOUNT ON YOUR FIRST DESIGN',
-  title: 'We craft affordable design',
-  text: 'Your interior should still represent your style. No matter how large your space is or what your design preference is, these designer examples are designed to inspire you.',
+  // discount: '25%',
+  // discountLabel: 'DISCOUNT ON YOUR FIRST DESIGN',
+  title: '我們做漂亮的設計',
+  text: '最珍貴的寶石精湛的工藝',
   carousel: [{
     id: 1,
     thumb_url: common_src_assets_image_interior_slider_slide_1_png__WEBPACK_IMPORTED_MODULE_1___default.a,
-    title: 'Restroom',
+    title: '項鍊',
     link: '#1'
   }, {
     id: 2,
     thumb_url: common_src_assets_image_interior_slider_slide_2_png__WEBPACK_IMPORTED_MODULE_2___default.a,
-    title: 'Livingroom',
+    title: '環',
     link: '#1'
   }, {
     id: 3,
     thumb_url: common_src_assets_image_interior_slider_slide_3_png__WEBPACK_IMPORTED_MODULE_3___default.a,
-    title: 'Corner',
+    title: '裝飾',
     link: '#1'
   }]
 };
@@ -2281,23 +2281,23 @@ var bannerData = {
 
 
 var featureData = {
-  title: 'OUR SERVICES',
-  slogan: 'Featured Service that We Provide',
+  title: '服務',
+  slogan: '最佳客戶服務',
   features: [{
     id: 1,
     icon: common_src_assets_image_interior_feature_1_svg__WEBPACK_IMPORTED_MODULE_4___default.a,
-    title: 'Corporate Design',
-    description: 'Corporate design is a crucial part of your brand. Our approach corporate design is extraordinary.'
+    title: '投資',
+    description: '珠寶是最好的投資之一。由於數量有限和世界公認的稀有性，價值會隨著時間而升值'
   }, {
     id: 2,
     icon: common_src_assets_image_interior_feature_2_svg__WEBPACK_IMPORTED_MODULE_5___default.a,
-    title: 'Landscape Design',
-    description: 'Learn more about landscape plans, how to design them, what to watch out for in your layout.'
+    title: '原石設計',
+    description: '您可以從頭開始挑選石材並進行設計以滿足您的獨特需求'
   }, {
     id: 3,
     icon: common_src_assets_image_interior_feature_3_svg__WEBPACK_IMPORTED_MODULE_6___default.a,
-    title: 'Interior Design',
-    description: 'Discover our design ideas, beautiful photos and how-to projects to create Interior Design.'
+    title: '珠寶選擇',
+    description: '我們幫助您確定最適合您的珠寶'
   }]
 };
 /* ------------------------------------ */
@@ -2308,9 +2308,9 @@ var featureData = {
 
 var aboutData = {
   thumb_url: common_src_assets_image_interior_about_parent_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-  title: 'Hi, Meet <br> Concrete Squarefeet',
-  text: 'Your interior should still represent your style and feel like a place you want to unwind in. No matter how large your space is or what your design preference is, these designer examples are designed to inspire you. No matter what your choices are, customer satisfaction is our desired goal.',
-  text2: 'When considering the design of your bedroom, it’s important to keep in mind both aesthetics and functionality. If storage is a primary concern, it is important to integrate the right cupboards and wardrobes into your design.'
+  title: 'Hi, 認識 <br> 千子寶石',
+  text: '我們在台北已經30年了. 從一開始，我們就去了泰國, 緬甸, 以從他們的來源獲得最優質的原石',
+  text2: '然後，我們的工匠將它們從頭開始設計'
 };
 /* ------------------------------------ */
 // Projects section data
@@ -2319,21 +2319,21 @@ var aboutData = {
 
 
 var projectData = {
-  title: 'WORK PROCEDURE',
-  slogan: 'How We Do Our Projects',
+  title: '工作程序',
+  slogan: '世界稀有',
   thumb_url: common_src_assets_image_interior_projects_1_png__WEBPACK_IMPORTED_MODULE_8___default.a,
   projects: [{
     id: 1,
-    text: 'Create a mind map to brainstorm your project to inspire new ideas. Use a simple piece of paper, poster, or whiteboard for your mind map and we write the destination of your project in the middle.We  Write down related topics, subtopics, and relevant concepts around the goal and branch from them to create and follow different tangents.',
-    text2: 'When you conduct a group project, each group member can benefit from the ideas of others and gain new insights by brainstorming together.'
+    text: '您不僅是客戶，而且是我們的朋友。我們是台北的一家有很多聯繫的老店',
+    text2: '從紐約的綠色鑽石到斯里蘭卡的稀有藍寶石，我們擁有最好的與你分享'
   }, {
     id: 2,
-    text: 'Schedule a brainstorming session in a quiet place with few distractions. If you are working on a project alone, you can use group discussions with friends or colleagues to gain a new perspective on the topic. When you conduct a group project, each group member can benefit from the ideas of others and gain new insights by brainstorming together.',
-    text2: 'Completing a successful project requires a significant amount of time and work, which means evaluating your priorities and planning your course of action.'
+    text: '安排私人觀看',
+    text2: '我們確保您應得的是最好的'
   }, {
     id: 3,
-    text: 'Create a mind map to brainstorm your project to inspire new ideas. Use a simple piece of paper, poster, or whiteboard for your mind map and we write the destination of your project in the middle.We  Write down related topics, subtopics, and relevant concepts around the goal and branch from them to create and follow different tangents.',
-    text2: 'When you conduct a group project, each group member can benefit from the ideas of others and gain new insights by brainstorming together.'
+    text: '我們確保一切都完全適合您',
+    text2: ''
   }]
 };
 /* ------------------------------------ */
@@ -2364,7 +2364,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialFacebook__WEBPACK_IMPORTED_MODULE_10__["socialFacebook"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 197
+          lineNumber: 195
         },
         __self: undefined
       }),
@@ -2375,7 +2375,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialDribbble__WEBPACK_IMPORTED_MODULE_11__["socialDribbble"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 202
+          lineNumber: 200
         },
         __self: undefined
       }),
@@ -2386,7 +2386,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialGoogleplus__WEBPACK_IMPORTED_MODULE_12__["socialGoogleplus"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 207
+          lineNumber: 205
         },
         __self: undefined
       }),
@@ -2397,7 +2397,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialSkype__WEBPACK_IMPORTED_MODULE_13__["socialSkype"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 212
+          lineNumber: 210
         },
         __self: undefined
       }),
@@ -2408,7 +2408,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialTwitter__WEBPACK_IMPORTED_MODULE_14__["socialTwitter"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 217
+          lineNumber: 215
         },
         __self: undefined
       }),
@@ -2425,7 +2425,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialFacebook__WEBPACK_IMPORTED_MODULE_10__["socialFacebook"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 230
+          lineNumber: 228
         },
         __self: undefined
       }),
@@ -2436,7 +2436,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialDribbble__WEBPACK_IMPORTED_MODULE_11__["socialDribbble"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 235
+          lineNumber: 233
         },
         __self: undefined
       }),
@@ -2447,7 +2447,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialGoogleplus__WEBPACK_IMPORTED_MODULE_12__["socialGoogleplus"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 240
+          lineNumber: 238
         },
         __self: undefined
       }),
@@ -2458,7 +2458,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialSkype__WEBPACK_IMPORTED_MODULE_13__["socialSkype"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 245
+          lineNumber: 243
         },
         __self: undefined
       }),
@@ -2469,7 +2469,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialTwitter__WEBPACK_IMPORTED_MODULE_14__["socialTwitter"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 250
+          lineNumber: 248
         },
         __self: undefined
       }),
@@ -2486,7 +2486,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialFacebook__WEBPACK_IMPORTED_MODULE_10__["socialFacebook"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 263
+          lineNumber: 261
         },
         __self: undefined
       }),
@@ -2497,7 +2497,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialDribbble__WEBPACK_IMPORTED_MODULE_11__["socialDribbble"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 268
+          lineNumber: 266
         },
         __self: undefined
       }),
@@ -2508,7 +2508,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialGoogleplus__WEBPACK_IMPORTED_MODULE_12__["socialGoogleplus"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 273
+          lineNumber: 271
         },
         __self: undefined
       }),
@@ -2519,7 +2519,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialSkype__WEBPACK_IMPORTED_MODULE_13__["socialSkype"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 278
+          lineNumber: 276
         },
         __self: undefined
       }),
@@ -2530,7 +2530,7 @@ var teamData = {
         icon: react_icons_kit_ionicons_socialTwitter__WEBPACK_IMPORTED_MODULE_14__["socialTwitter"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 283
+          lineNumber: 281
         },
         __self: undefined
       }),
@@ -2685,7 +2685,7 @@ var footerData = {
       icon: react_icons_kit_fa_facebook__WEBPACK_IMPORTED_MODULE_23__["facebook"],
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 461
+        lineNumber: 459
       },
       __self: undefined
     }),
@@ -2697,7 +2697,7 @@ var footerData = {
       icon: react_icons_kit_fa_dribbble__WEBPACK_IMPORTED_MODULE_24__["dribbble"],
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 467
+        lineNumber: 465
       },
       __self: undefined
     }),
@@ -2709,7 +2709,7 @@ var footerData = {
       icon: react_icons_kit_fa_googlePlus__WEBPACK_IMPORTED_MODULE_25__["googlePlus"],
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 473
+        lineNumber: 471
       },
       __self: undefined
     }),
@@ -2721,7 +2721,7 @@ var footerData = {
       icon: react_icons_kit_fa_skype__WEBPACK_IMPORTED_MODULE_26__["skype"],
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 479
+        lineNumber: 477
       },
       __self: undefined
     }),
@@ -2733,7 +2733,7 @@ var footerData = {
       icon: react_icons_kit_fa_twitter__WEBPACK_IMPORTED_MODULE_27__["twitter"],
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 485
+        lineNumber: 483
       },
       __self: undefined
     }),
@@ -5658,7 +5658,7 @@ var Banner = function Banner() {
   }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(common_src_components_Input__WEBPACK_IMPORTED_MODULE_11__["default"], {
     className: state.valid,
     type: "email",
-    placeholder: "Enter email address",
+    placeholder: "\u8F38\u5165\u96FB\u5B50\u90F5\u4EF6",
     icon: react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_icons_kit__WEBPACK_IMPORTED_MODULE_5__["Icon"], {
       icon: react_icons_kit_ionicons_iosEmailOutline__WEBPACK_IMPORTED_MODULE_6__["iosEmailOutline"],
       __source: {
@@ -5685,14 +5685,14 @@ var Banner = function Banner() {
   }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_10__["default"], {
     type: "submit",
     colors: "primaryWithBg",
-    title: "FREE CONSULT",
+    title: "\u514D\u8CBB\u8AEE\u8A62",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 98
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_10__["default"], {
-    title: "EXPLORE MORE",
+    title: "\u63A2\u7D22",
     variant: "textButton",
     icon: react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("i", {
       className: "flaticon-next",
@@ -9051,7 +9051,7 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/inde
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

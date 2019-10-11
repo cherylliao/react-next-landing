@@ -58,28 +58,28 @@ import slide2 from 'common/src/assets/image/interior/slider/slide-2.png';
 import slide3 from 'common/src/assets/image/interior/slider/slide-3.png';
 
 export const bannerData = {
-  discount: '25%',
-  discountLabel: 'DISCOUNT ON YOUR FIRST DESIGN',
-  title: 'We craft affordable design',
+  // discount: '25%',
+  // discountLabel: 'DISCOUNT ON YOUR FIRST DESIGN',
+  title: '我們做漂亮的設計',
   text:
-    'Your interior should still represent your style. No matter how large your space is or what your design preference is, these designer examples are designed to inspire you.',
+    '最珍貴的寶石精湛的工藝',
   carousel: [
     {
       id: 1,
       thumb_url: slide1,
-      title: 'Restroom',
+      title: '項鍊',
       link: '#1',
     },
     {
       id: 2,
       thumb_url: slide2,
-      title: 'Livingroom',
+      title: '環',
       link: '#1',
     },
     {
       id: 3,
       thumb_url: slide3,
-      title: 'Corner',
+      title: '裝飾',
       link: '#1',
     },
   ],
@@ -93,29 +93,27 @@ import landscapeIcon from 'common/src/assets/image/interior/feature/2.svg';
 import interiorIcon from 'common/src/assets/image/interior/feature/3.svg';
 
 export const featureData = {
-  title: 'OUR SERVICES',
-  slogan: 'Featured Service that We Provide',
+  title: '服務',
+  slogan: '最佳客戶服務',
   features: [
     {
       id: 1,
       icon: corporateIcon,
-      title: 'Corporate Design',
-      description:
-        'Corporate design is a crucial part of your brand. Our approach corporate design is extraordinary.',
+      title: '投資',
+      description:'珠寶是最好的投資之一。由於數量有限和世界公認的稀有性，價值會隨著時間而升值',
     },
     {
       id: 2,
       icon: landscapeIcon,
-      title: 'Landscape Design',
-      description:
-        'Learn more about landscape plans, how to design them, what to watch out for in your layout.',
+      title: '原石設計',
+      description:'您可以從頭開始挑選石材並進行設計以滿足您的獨特需求',
     },
     {
       id: 3,
       icon: interiorIcon,
-      title: 'Interior Design',
+      title: '珠寶選擇',
       description:
-        'Discover our design ideas, beautiful photos and how-to projects to create Interior Design.',
+        '我們幫助您確定最適合您的珠寶',
     },
   ],
 };
@@ -127,11 +125,11 @@ import parentImg from 'common/src/assets/image/interior/about_parent.png';
 
 export const aboutData = {
   thumb_url: parentImg,
-  title: 'Hi, Meet <br> Concrete Squarefeet',
+  title: 'Hi, 認識 <br> 千子寶石',
   text:
-    'Your interior should still represent your style and feel like a place you want to unwind in. No matter how large your space is or what your design preference is, these designer examples are designed to inspire you. No matter what your choices are, customer satisfaction is our desired goal.',
+    '我們在台北已經30年了. 從一開始，我們就去了泰國, 緬甸, 以從他們的來源獲得最優質的原石',
   text2:
-    'When considering the design of your bedroom, it’s important to keep in mind both aesthetics and functionality. If storage is a primary concern, it is important to integrate the right cupboards and wardrobes into your design.',
+    '然後，我們的工匠將它們從頭開始設計',
 };
 
 /* ------------------------------------ */
@@ -140,30 +138,30 @@ export const aboutData = {
 import project1 from 'common/src/assets/image/interior/projects/1.png';
 
 export const projectData = {
-  title: 'WORK PROCEDURE',
-  slogan: 'How We Do Our Projects',
+  title: '工作程序',
+  slogan: '世界稀有',
   thumb_url: project1,
   projects: [
     {
       id: 1,
       text:
-        'Create a mind map to brainstorm your project to inspire new ideas. Use a simple piece of paper, poster, or whiteboard for your mind map and we write the destination of your project in the middle.We  Write down related topics, subtopics, and relevant concepts around the goal and branch from them to create and follow different tangents.',
+        '您不僅是客戶，而且是我們的朋友。我們是台北的一家有很多聯繫的老店',
       text2:
-        'When you conduct a group project, each group member can benefit from the ideas of others and gain new insights by brainstorming together.',
+        '從紐約的綠色鑽石到斯里蘭卡的稀有藍寶石，我們擁有最好的與你分享',
     },
     {
       id: 2,
       text:
-        'Schedule a brainstorming session in a quiet place with few distractions. If you are working on a project alone, you can use group discussions with friends or colleagues to gain a new perspective on the topic. When you conduct a group project, each group member can benefit from the ideas of others and gain new insights by brainstorming together.',
+        '安排私人觀看',
       text2:
-        'Completing a successful project requires a significant amount of time and work, which means evaluating your priorities and planning your course of action.',
+        '我們確保您應得的是最好的',
     },
     {
       id: 3,
       text:
-        'Create a mind map to brainstorm your project to inspire new ideas. Use a simple piece of paper, poster, or whiteboard for your mind map and we write the destination of your project in the middle.We  Write down related topics, subtopics, and relevant concepts around the goal and branch from them to create and follow different tangents.',
+        '我們確保一切都完全適合您',
       text2:
-        'When you conduct a group project, each group member can benefit from the ideas of others and gain new insights by brainstorming together.',
+        '',
     },
   ],
 };

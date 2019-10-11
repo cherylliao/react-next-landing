@@ -19,35 +19,35 @@
 /* ------------------------------------ */
 export const menuData = [
   {
-    label: 'Feature',
+    label: '特徵',
     path: '#feature',
     offset: '80',
   },
   {
-    label: 'About',
+    label: '關於',
     path: '#aboutUs',
     offset: '80',
   },
   {
-    label: 'Project',
+    label: '政策',
     path: '#project',
     offset: '80',
   },
   {
-    label: 'Team',
+    label: '畫廊',
     path: '#team',
     offset: '80',
   },
   {
-    label: 'News',
+    label: '聯繫',
     path: '#news',
     offset: '40',
   },
-  {
-    label: 'Testimonial',
-    path: '#testimonial',
-    offset: '80',
-  },
+  // {
+  //   label: 'Testimonial',
+  //   path: '#testimonial',
+  //   offset: '80',
+  // },
 ];
 
 /* ------------------------------------ */
@@ -125,7 +125,7 @@ import parentImg from 'common/src/assets/image/interior/about_parent.png';
 
 export const aboutData = {
   thumb_url: parentImg,
-  title: 'Hi, 認識 <br> 千子寶石',
+  title: 'Hi, 認識 <br> 千子寶石坊',
   text:
     '我們在台北已經30年了. 從一開始，我們就去了泰國, 緬甸, 以從他們的來源獲得最優質的原石',
   text2:
@@ -451,8 +451,8 @@ import logo from 'common/src/assets/image/interior/logo.svg';
 
 export const footerData = {
   logo: logo,
-  mail: 'hello@redq.io',
-  phone: '123-456-7890',
+  mail: 'liaocheryl@yahoo',
+  phone: '023921529',
   socialLinks: [
     {
       id: 1,
@@ -488,123 +488,123 @@ export const footerData = {
   menuWidgets: [
     {
       id: 1,
-      title: 'ABOUT US',
+      title: '地址',
       menu: [
         {
           id: 1,
-          text: 'Support Center',
+          text: '中正區信義路二段63號',
           link: '#',
         },
-        {
-          id: 2,
-          text: 'Customer Support',
-          link: '#',
-        },
-        {
-          id: 3,
-          text: 'About Us',
-          link: '#',
-        },
-        {
-          id: 4,
-          text: 'Copyright',
-          link: '#',
-        },
-        {
-          id: 5,
-          text: 'Popular Campaign',
-          link: '#',
-        },
+        // {
+        //   id: 2,
+        //   text: 'Customer Support',
+        //   link: '#',
+        // },
+        // {
+        //   id: 3,
+        //   text: 'About Us',
+        //   link: '#',
+        // },
+        // {
+        //   id: 4,
+        //   text: 'Copyright',
+        //   link: '#',
+        // },
+        // {
+        //   id: 5,
+        //   text: 'Popular Campaign',
+        //   link: '#',
+        // },
       ],
     },
     {
       id: 2,
-      title: 'OUR INFORMATION',
+      title: '聯繫',
       menu: [
         {
           id: 1,
-          text: 'Return Policy',
+          text: '02 2392 1529',
           link: '#',
         },
         {
           id: 2,
-          text: 'Privacy Policy',
+          text: 'liaocheryl@yahoo.com',
           link: '#',
         },
-        {
-          id: 3,
-          text: 'Terms & Conditions',
-          link: '#',
-        },
-        {
-          id: 4,
-          text: 'Site Map',
-          link: '#',
-        },
-        {
-          id: 5,
-          text: 'Store Hours',
-          link: '#',
-        },
+        // {
+        //   id: 3,
+        //   text: 'Terms & Conditions',
+        //   link: '#',
+        // },
+        // {
+        //   id: 4,
+        //   text: 'Site Map',
+        //   link: '#',
+        // },
+        //  {
+        //   id: 5,
+        //   text: 'Store Hours',
+        //   link: '#',
+        // },
       ],
     },
     {
       id: 3,
-      title: 'MY ACCOUNT',
+      title: '營業時間',
       menu: [
         {
           id: 1,
-          text: 'Press inquiries',
+          text: '週一到週六',
           link: '#',
         },
         {
           id: 2,
-          text: 'Social media directories',
+          text: '上午11點至下午6點',
           link: '#',
         },
-        {
-          id: 3,
-          text: 'Images & B-roll',
-          link: '#',
-        },
-        {
-          id: 4,
-          text: 'Permissions',
-          link: '#',
-        },
-        {
-          id: 5,
-          text: 'Speaker requests',
-          link: '#',
-        },
+        // {
+        //   id: 3,
+        //   text: 'Images & B-roll',
+        //   link: '#',
+        // },
+        // {
+        //   id: 4,
+        //   text: 'Permissions',
+        //   link: '#',
+        // },
+        // {
+        //   id: 5,
+        //   text: 'Speaker requests',
+        //   link: '#',
+        // },
       ],
     },
-    {
-      id: 4,
-      title: 'POLICY',
-      menu: [
-        {
-          id: 1,
-          text: 'Application security',
-          link: '#',
-        },
-        {
-          id: 2,
-          text: 'Software principles',
-          link: '#',
-        },
-        {
-          id: 3,
-          text: 'Unwanted software policy',
-          link: '#',
-        },
-        {
-          id: 4,
-          text: 'Responsible supply chain',
-          link: '#',
-        },
-      ],
-    },
+//     {
+//       id: 4,
+//       title: 'POLICY',
+//       menu: [
+//         {
+//           id: 1,
+//           text: 'Application security',
+//           link: '#',
+//         },
+//         {
+//           id: 2,
+//           text: 'Software principles',
+//           link: '#',
+//         },
+//         {
+//           id: 3,
+//           text: 'Unwanted software policy',
+//           link: '#',
+//         },
+//         {
+//           id: 4,
+//           text: 'Responsible supply chain',
+//           link: '#',
+//         },
+//       ],
+//     },
   ],
 };
 

@@ -67,7 +67,7 @@ export default () => {
             <News />
             {/* <Testimonial /> */}
             <Gallery />
-            <Newsletter />
+            {/* <Newsletter /> */}
           </ContentWrapper>
           <Footer />
         </InteriorWrapper>

@@ -31,7 +31,7 @@ const AboutUs = () => {
             <Heading dangerouslySetInnerHTML={setTitle(title)} />
             <Text content={text} />
             <Text content={text2} />
-            <Link href="#1">
+            <Link href="https://www.youtube.com/channel/UCT17TVvYH639MlPuZWIp_hQ">
               <a className="learn__more-btn">
                 <span className="btn_text">VISITE SITE</span>
                 <span className="next_arrow"></span>

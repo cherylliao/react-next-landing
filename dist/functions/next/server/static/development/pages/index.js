@@ -2218,29 +2218,25 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/node_modules/common/src/dat
 
 /* ------------------------------------ */
 var menuData = [{
-  label: 'Feature',
+  label: '特徵',
   path: '#feature',
   offset: '80'
 }, {
-  label: 'About',
+  label: '關於',
   path: '#aboutUs',
   offset: '80'
 }, {
-  label: 'Project',
+  label: '政策',
   path: '#project',
   offset: '80'
 }, {
-  label: 'Team',
+  label: '畫廊',
   path: '#team',
   offset: '80'
 }, {
-  label: 'News',
+  label: '聯繫',
   path: '#news',
   offset: '40'
-}, {
-  label: 'Testimonial',
-  path: '#testimonial',
-  offset: '80'
 }];
 /* ------------------------------------ */
 // Banner section data
@@ -2308,7 +2304,7 @@ var featureData = {
 
 var aboutData = {
   thumb_url: common_src_assets_image_interior_about_parent_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-  title: 'Hi, 認識 <br> 千子寶石',
+  title: 'Hi, 認識 <br> 千子寶石坊',
   text: '我們在台北已經30年了. 從一開始，我們就去了泰國, 緬甸, 以從他們的來源獲得最優質的原石',
   text2: '然後，我們的工匠將它們從頭開始設計'
 };
@@ -2677,8 +2673,8 @@ var newsletterData = {
 
 var footerData = {
   logo: common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_28___default.a,
-  mail: 'hello@redq.io',
-  phone: '123-456-7890',
+  mail: 'liaocheryl@yahoo',
+  phone: '023921529',
   socialLinks: [{
     id: 1,
     icon: react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_icons_kit__WEBPACK_IMPORTED_MODULE_9__["Icon"], {
@@ -2742,94 +2738,34 @@ var footerData = {
   }],
   menuWidgets: [{
     id: 1,
-    title: 'ABOUT US',
+    title: '地址',
     menu: [{
       id: 1,
-      text: 'Support Center',
-      link: '#'
-    }, {
-      id: 2,
-      text: 'Customer Support',
-      link: '#'
-    }, {
-      id: 3,
-      text: 'About Us',
-      link: '#'
-    }, {
-      id: 4,
-      text: 'Copyright',
-      link: '#'
-    }, {
-      id: 5,
-      text: 'Popular Campaign',
+      text: '中正區信義路二段63號',
       link: '#'
     }]
   }, {
     id: 2,
-    title: 'OUR INFORMATION',
+    title: '聯繫',
     menu: [{
       id: 1,
-      text: 'Return Policy',
+      text: '02 2392 1529',
       link: '#'
     }, {
       id: 2,
-      text: 'Privacy Policy',
-      link: '#'
-    }, {
-      id: 3,
-      text: 'Terms & Conditions',
-      link: '#'
-    }, {
-      id: 4,
-      text: 'Site Map',
-      link: '#'
-    }, {
-      id: 5,
-      text: 'Store Hours',
+      text: 'liaocheryl@yahoo.com',
       link: '#'
     }]
   }, {
     id: 3,
-    title: 'MY ACCOUNT',
+    title: '營業時間',
     menu: [{
       id: 1,
-      text: 'Press inquiries',
+      text: '週一到週六',
       link: '#'
     }, {
       id: 2,
-      text: 'Social media directories',
-      link: '#'
-    }, {
-      id: 3,
-      text: 'Images & B-roll',
-      link: '#'
-    }, {
-      id: 4,
-      text: 'Permissions',
-      link: '#'
-    }, {
-      id: 5,
-      text: 'Speaker requests',
-      link: '#'
-    }]
-  }, {
-    id: 4,
-    title: 'POLICY',
-    menu: [{
-      id: 1,
-      text: 'Application security',
-      link: '#'
-    }, {
-      id: 2,
-      text: 'Software principles',
-      link: '#'
-    }, {
-      id: 3,
-      text: 'Unwanted software policy',
-      link: '#'
-    }, {
-      id: 4,
-      text: 'Responsible supply chain',
+      text: '上午11點至下午6點',
       link: '#'
     }]
   }]
@@ -5373,7 +5309,7 @@ var AboutUs = function AboutUs() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "#1",
+    href: "https://www.youtube.com/channel/UCT17TVvYH639MlPuZWIp_hQ",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34
@@ -6212,22 +6148,6 @@ var Footer = function Footer(_ref) {
       lineNumber: 36
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    className: "text",
-    content: mail,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    className: "text",
-    content: phone,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_footer_style__WEBPACK_IMPORTED_MODULE_9__["SocialList"], {
     __source: {
       fileName: _jsxFileName,
@@ -6320,14 +6240,6 @@ var Footer = function Footer(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 83
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    className: "text",
-    content: "copyright 2019 @RedQ",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 84
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
@@ -9026,12 +8938,6 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/inde
     __source: {
       fileName: _jsxFileName,
       lineNumber: 69
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Newsletter__WEBPACK_IMPORTED_MODULE_15__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Footer__WEBPACK_IMPORTED_MODULE_16__["default"], {

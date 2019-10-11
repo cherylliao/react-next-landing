@@ -39,8 +39,8 @@ const Footer = ({ row, col, colOne, colTwo }) => {
                 logoSrc={logo}
                 title="Interior"
               />
-              <Text className="text" content={mail} />
-              <Text className="text" content={phone} />
+              {/* <Text className="text" content={mail} />
+              <Text className="text" content={phone} /> */}
               <SocialList>
                 {socialLinks.map(item => (
                   <li className={item.name} key={`link-key${item.id}`}>
@@ -81,7 +81,7 @@ const Footer = ({ row, col, colOne, colTwo }) => {
           </Box>
           {/* End of widgets row */}
           <Box className="row copyright" {...row}>
-            <Text className="text" content="copyright 2019 @RedQ" />
+            {/* <Text className="text" content="copyright 2019 @RedQ" /> */}
             <p>
               Built & designed with
               <svg

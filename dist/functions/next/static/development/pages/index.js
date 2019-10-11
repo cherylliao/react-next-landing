@@ -8042,13 +8042,13 @@ var projectData = {
 
 
 var teamData = {
-  title: 'OUR TEAM MEMBER',
-  slogan: 'Meet Our Perfectionist',
+  title: '圖片',
+  slogan: '我們完美的珠寶',
   members: [{
     id: 1,
     avatar: common_src_assets_image_interior_team_member1_jpg__WEBPACK_IMPORTED_MODULE_15___default.a,
-    name: 'Roman Ul Oman',
-    designation: 'Project Manager',
+    name: '翡翠',
+    designation: '比鑽石稀有',
     social_links: [{
       id: 1,
       icon: react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_icons_kit__WEBPACK_IMPORTED_MODULE_9__["Icon"], {
@@ -8108,8 +8108,8 @@ var teamData = {
   }, {
     id: 2,
     avatar: common_src_assets_image_interior_team_member2_jpg__WEBPACK_IMPORTED_MODULE_16___default.a,
-    name: 'Jeny Doe',
-    designation: 'Lead Designer',
+    name: '貓眼',
+    designation: '神話說石頭是有靈性',
     social_links: [{
       id: 1,
       icon: react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_icons_kit__WEBPACK_IMPORTED_MODULE_9__["Icon"], {
@@ -8169,8 +8169,8 @@ var teamData = {
   }, {
     id: 3,
     avatar: common_src_assets_image_interior_team_member3_jpg__WEBPACK_IMPORTED_MODULE_17___default.a,
-    name: 'Naina Cooper',
-    designation: 'Marketing Manager',
+    name: '紅寶石',
+    designation: '泰國最好的質量',
     social_links: [{
       id: 1,
       icon: react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_icons_kit__WEBPACK_IMPORTED_MODULE_9__["Icon"], {
@@ -8322,22 +8322,22 @@ var testimonialData = {
 var galleryData = [{
   id: 1,
   thumb_url: common_src_assets_image_interior_gallery_1_jpg__WEBPACK_IMPORTED_MODULE_18___default.a,
-  name: 'Eco friendly',
+  // name: 'Eco friendly',
   link: '#'
 }, {
   id: 2,
   thumb_url: common_src_assets_image_interior_gallery_2_jpg__WEBPACK_IMPORTED_MODULE_19___default.a,
-  name: 'Living',
+  // name: 'Living',
   link: '#'
 }, {
   id: 3,
   thumb_url: common_src_assets_image_interior_gallery_3_jpg__WEBPACK_IMPORTED_MODULE_20___default.a,
-  name: 'Corner',
+  // name: 'Corner',
   link: '#'
 }, {
   id: 4,
   thumb_url: common_src_assets_image_interior_gallery_4_jpg__WEBPACK_IMPORTED_MODULE_21___default.a,
-  name: 'Wall decor',
+  // name: 'Wall decor',
   link: '#'
 }, {
   id: 5,
@@ -47434,7 +47434,7 @@ var News = function News() {
       lineNumber: 21
     },
     __self: this
-  }, "D")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "\u5343")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
@@ -47448,7 +47448,7 @@ var News = function News() {
       lineNumber: 24
     },
     __self: this
-  }, "A")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "\u5B50")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
@@ -47462,21 +47462,21 @@ var News = function News() {
       lineNumber: 27
     },
     __self: this
-  }, "T")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "\u5BF6")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 30
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_reveal_Fade__WEBPACK_IMPORTED_MODULE_2___default.a, {
     delay: 90,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 31
     },
     __self: this
-  }, "E")))));
+  }, "\u77F3")))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (News);
@@ -49022,12 +49022,6 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/pages/inde
     __source: {
       fileName: _jsxFileName,
       lineNumber: 67
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Testimonial__WEBPACK_IMPORTED_MODULE_13__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 68
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_Interior_Gallery__WEBPACK_IMPORTED_MODULE_14__["default"], {

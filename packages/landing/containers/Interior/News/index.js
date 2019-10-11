@@ -18,16 +18,17 @@ const News = () => {
       <ContentWrapper>
         <div className="row">
           <div className="col">
-            <Fade delay={30}>D</Fade>
+            <Fade delay={30}>千</Fade>
           </div>
           <div className="col">
-            <Fade delay={60}>A</Fade>
+            <Fade delay={60}>子</Fade>
           </div>
           <div className="col">
-            <Fade delay={90}>T</Fade>
+            <Fade delay={90}>寶</Fade>
           </div>
+          
           <div className="col">
-            <Fade delay={90}>E</Fade>
+            <Fade delay={90}>石</Fade>
           </div>
         </div>
         {/* <NewsWrapper>

@@ -181,14 +181,14 @@ import member2 from 'common/src/assets/image/interior/team/member2.jpg';
 import member3 from 'common/src/assets/image/interior/team/member3.jpg';
 
 export const teamData = {
-  title: 'OUR TEAM MEMBER',
-  slogan: 'Meet Our Perfectionist',
+  title: '圖片',
+  slogan: '我們完美的珠寶',
   members: [
     {
       id: 1,
       avatar: member1,
-      name: 'Roman Ul Oman',
-      designation: 'Project Manager',
+      name: '翡翠',
+      designation: '比鑽石稀有',
       social_links: [
         {
           id: 1,
@@ -220,8 +220,8 @@ export const teamData = {
     {
       id: 2,
       avatar: member2,
-      name: 'Jeny Doe',
-      designation: 'Lead Designer',
+      name: '貓眼',
+      designation: '神話說石頭是有靈性',
       social_links: [
         {
           id: 1,
@@ -253,8 +253,8 @@ export const teamData = {
     {
       id: 3,
       avatar: member3,
-      name: 'Naina Cooper',
-      designation: 'Marketing Manager',
+      name: '紅寶石',
+      designation: '泰國最好的質量',
       social_links: [
         {
           id: 1,
@@ -400,25 +400,25 @@ export const galleryData = [
   {
     id: 1,
     thumb_url: galleryImg1,
-    name: 'Eco friendly',
+    // name: 'Eco friendly',
     link: '#',
   },
   {
     id: 2,
     thumb_url: galleryImg2,
-    name: 'Living',
+    // name: 'Living',
     link: '#',
   },
   {
     id: 3,
     thumb_url: galleryImg3,
-    name: 'Corner',
+    // name: 'Corner',
     link: '#',
   },
   {
     id: 4,
     thumb_url: galleryImg4,
-    name: 'Wall decor',
+    // name: 'Wall decor',
     link: '#',
   },
   {

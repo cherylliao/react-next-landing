@@ -4987,7 +4987,7 @@ var Logo = function Logo(_ref) {
     },
     __self: this
   }), logoSrc ? react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Image__WEBPACK_IMPORTED_MODULE_6__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-    src: logoSrc,
+    src: "packages/common/src/assets/image/logo.png",
     alt: title
   }, logoStyle, {
     __source: {
@@ -5745,106 +5745,6 @@ var Banner = function Banner() {
 
 /***/ }),
 
-/***/ "./containers/Interior/Copyright/copyright.style.js":
-/*!**********************************************************!*\
-  !*** ./containers/Interior/Copyright/copyright.style.js ***!
-  \**********************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-components */ "styled-components");
-/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_0__);
-
-var CopyrightWrapper = styled_components__WEBPACK_IMPORTED_MODULE_0___default.a.div.withConfig({
-  displayName: "copyrightstyle__CopyrightWrapper",
-  componentId: "sc-19d4tfj-0"
-})(["ul{display:flex;align-items:center;li{margin:0 12px;&:first-child{margin-left:0;}&:last-child{margin-right:0;}a{color:#20201d;}}&:hover{li{a{&:not(:hover){opacity:0.4;}}}}}p{color:#20201d;font-size:16px;margin:30px 0 0;}"]);
-/* harmony default export */ __webpack_exports__["default"] = (CopyrightWrapper);
-
-/***/ }),
-
-/***/ "./containers/Interior/Copyright/index.js":
-/*!************************************************!*\
-  !*** ./containers/Interior/Copyright/index.js ***!
-  \************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "../../node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
-/* harmony import */ var _copyright_style__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./copyright.style */ "./containers/Interior/Copyright/copyright.style.js");
-/* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Copyright/index.js";
-
-
-
-
-
-
-var Copyright = function Copyright() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_copyright_style__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    className: "copyright_section",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, common_src_data_Interior__WEBPACK_IMPORTED_MODULE_4__["socialProfile"].map(function (profile, index) {
-    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-      key: "profile_key_".concat(index),
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 13
-      },
-      __self: this
-    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-      href: "#1",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 14
-      },
-      __self: this
-    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 15
-      },
-      __self: this
-    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
-      className: profile.icon,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 16
-      },
-      __self: this
-    }))));
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    content: "Copyrights 2019 @RedQ Inc",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Copyright);
-
-/***/ }),
-
 /***/ "./containers/Interior/Feature/feature.style.js":
 /*!******************************************************!*\
   !*** ./containers/Interior/Feature/feature.style.js ***!
@@ -6136,16 +6036,6 @@ var Footer = function Footer(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 35
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_UI_Logo__WEBPACK_IMPORTED_MODULE_7__["default"], {
-    className: "logo",
-    href: "/interior",
-    logoSrc: logo,
-    title: "Interior",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_footer_style__WEBPACK_IMPORTED_MODULE_9__["SocialList"], {
@@ -6972,10 +6862,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _navbar_style__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./navbar.style */ "./containers/Interior/Navbar/navbar.style.js");
 /* harmony import */ var _SearchPanel__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../SearchPanel */ "./containers/Interior/SearchPanel/index.js");
 /* harmony import */ var _LoginModal__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../LoginModal */ "./containers/Interior/LoginModal/index.js");
-/* harmony import */ var _Copyright__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../Copyright */ "./containers/Interior/Copyright/index.js");
-/* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
-/* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! common/src/assets/image/interior/logo.svg */ "../../node_modules/common/src/assets/image/interior/logo.svg");
-/* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18___default = /*#__PURE__*/__webpack_require__.n(common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18__);
+/* harmony import */ var common_src_data_Interior__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! common/src/data/Interior */ "../../node_modules/common/src/data/Interior/index.js");
+/* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! common/src/assets/image/interior/logo.svg */ "../../node_modules/common/src/assets/image/interior/logo.svg");
+/* harmony import */ var common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_17__);
 
 var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers/Interior/Navbar/index.js";
 
@@ -6992,7 +6881,7 @@ var _jsxFileName = "/Users/cheryl/react-next-landing/packages/landing/containers
 
 
 
-
+ // import Copyright from '../Copyright';
 
 
 
@@ -7124,7 +7013,7 @@ var Navbar = function Navbar(_ref) {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_UI_Logo__WEBPACK_IMPORTED_MODULE_9__["default"], {
     href: "/interior",
-    logoSrc: common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_18___default.a,
+    logoSrc: common_src_assets_image_interior_logo_svg__WEBPACK_IMPORTED_MODULE_17___default.a,
     title: "Interior",
     logoStyle: logoStyle,
     __source: {
@@ -7135,7 +7024,7 @@ var Navbar = function Navbar(_ref) {
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     style: {
       display: 'flex',
-      alignItems: 'center'
+      alignItems: 'right'
     },
     __source: {
       fileName: _jsxFileName,
@@ -7211,18 +7100,12 @@ var Navbar = function Navbar(_ref) {
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(common_src_components_ScrollSpyMenu__WEBPACK_IMPORTED_MODULE_11__["default"], {
-    menuItems: common_src_data_Interior__WEBPACK_IMPORTED_MODULE_17__["menuData"],
+    menuItems: common_src_data_Interior__WEBPACK_IMPORTED_MODULE_16__["menuData"],
     drawerClose: true,
     offset: -100,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 129
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Copyright__WEBPACK_IMPORTED_MODULE_16__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 134
     },
     __self: this
   })))));

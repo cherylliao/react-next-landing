@@ -18,7 +18,7 @@ const Logo = ({
     {withAchor ? (
       <a {...anchorProps}>
         {logoSrc ? (
-          <Image src={logoSrc} alt={title} {...logoStyle} />
+          <Image src="packages/common/src/assets/image/logo.png" alt={title} {...logoStyle} />
         ) : (
           <Text content={title} {...titleStyle} />
         )}

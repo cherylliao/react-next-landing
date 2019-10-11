@@ -13,7 +13,7 @@ import { DrawerContext } from 'common/src/contexts/DrawerContext';
 import { Container } from './navbar.style';
 import SearchPanel from '../SearchPanel';
 import LoginModal from '../LoginModal';
-import Copyright from '../Copyright';
+// import Copyright from '../Copyright';
 
 import { menuData } from 'common/src/data/Interior';
 import logo from 'common/src/assets/image/interior/logo.svg';
@@ -98,7 +98,7 @@ const Navbar = ({ navbarStyle, logoStyle }) => {
           title="Interior"
           logoStyle={logoStyle}
         />
-        <div style={{ display: 'flex', alignItems: 'center' }}>
+        <div style={{ display: 'flex', alignItems: 'right' }}>
           <Button
             variant="textButton"
             onClick={handleSearchModal}
@@ -131,7 +131,7 @@ const Navbar = ({ navbarStyle, logoStyle }) => {
               drawerClose={true}
               offset={-100}
             />
-            <Copyright />
+            {/* <Copyright /> */}
           </Drawer>
         </div>
       </Container>

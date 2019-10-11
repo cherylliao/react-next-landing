@@ -33,12 +33,12 @@ const Footer = ({ row, col, colOne, colTwo }) => {
         <Container width="1330px">
           <Box className="row" {...row}>
             <Box className="col-one" {...colOne}>
-              <Logo
+              {/* <Logo
                 className="logo"
                 href="/interior"
                 logoSrc={logo}
                 title="Interior"
-              />
+              /> */}
               {/* <Text className="text" content={mail} />
               <Text className="text" content={phone} /> */}
               <SocialList>
